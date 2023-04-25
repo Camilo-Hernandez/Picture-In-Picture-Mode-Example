@@ -119,3 +119,4 @@ outTmp/
 /test.output
 /kotlin-native/dist
 kotlin-ide/
+/app/src/main/res/raw/mi_video.mp4
